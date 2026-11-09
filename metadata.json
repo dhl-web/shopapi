@@ -1,0 +1,6 @@
+{
+  "name": "Chợ Tài Khoản AI API Hub",
+  "description": "Nền tảng phân phối API AI đa mô hình và tài khoản số hàng đầu với bảng giá linh hoạt, thanh toán VietQR tự động và tài liệu tích hợp đa nền tảng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
